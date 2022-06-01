@@ -9,13 +9,14 @@ namespace WindowsFormsApp4
         {
             InitializeComponent();
         }
-        bool JeAlfanum(string vstup, bool alfanum, ref int male, ref int velke, ref int jine)
+        bool JeAlfanum(string vstup, ref bool alfanum, ref int male, ref int velke, ref int jine, ref int pocet)
         {
             vstup = textBox1.Text;
             alfanum = true;
             male = 0;
             velke = 0;
             jine = 0;
+            pocet = 0;
             foreach (char znak in textBox1.Text)
             {
                 if((int)znak >= 97 && ((int)znak <= 122))
@@ -31,6 +32,7 @@ namespace WindowsFormsApp4
                     alfanum = false;
                     jine++;
                 }
+                pocet++;
             }
             return alfanum;
         }
@@ -41,11 +43,27 @@ namespace WindowsFormsApp4
             bool alfanum = true;
             int male = 0;
             int velke = 0;
-            int jine = 0;          
-            label1.Text = JeAlfanum(vstup, alfanum, ref male, ref velke, ref jine).ToString();
-            label2.Text = "Počet malých písmen:" + male.ToString();
-            label3.Text = "Počet velkých písmen:" + velke.ToString();
-            label4.Text = "Počet jiných znaků:" + jine.ToString();
+            int jine = 0;
+            int pocet = 0;
+            JeAlfanum(vstup, ref alfanum, ref male, ref velke, ref jine, ref pocet);
+            if (pocet == 0)
+            {
+                label1.Text = "Text neobsahuje žádné znaky";
+            }
+            else
+            {
+                if (alfanum)
+                {
+                    label1.Text = "Text je alfanumerický";
+                }
+                else
+                {
+                    label1.Text = "Text není alfanumerický";
+                }
+            }           
+            label2.Text = "Počet malých písmen: " + male.ToString();
+            label3.Text = "Počet velkých písmen: " + velke.ToString();
+            label4.Text = "Počet jiných znaků: " + jine.ToString();
         }
     }
 }
