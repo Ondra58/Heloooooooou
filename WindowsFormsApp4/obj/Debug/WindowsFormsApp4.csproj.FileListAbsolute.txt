@@ -24,3 +24,16 @@ C:\Users\zelenyo.04\Source\Repos\Heloooooooou\WindowsFormsApp4\obj\Debug\Windows
 C:\Users\zelenyo.04\Source\Repos\Heloooooooou\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
 C:\Users\zelenyo.04\Source\Repos\Heloooooooou\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
 C:\Users\zelenyo.04\Source\Repos\Heloooooooou\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csprojAssemblyReference.cache
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form4.resources
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form3.resources
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form2.resources
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Form1.resources
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.Properties.Resources.resources
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.GenerateResource.cache
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.csproj.CoreCompileInputs.cache
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.exe
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\obj\Debug\WindowsFormsApp4.pdb
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe.config
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.exe
+D:\Moje složka\Škola\Prográmky\Prográmky\Ukoool\WindowsFormsApp4\bin\Debug\WindowsFormsApp4.pdb
